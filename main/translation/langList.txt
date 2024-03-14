@@ -1,0 +1,20 @@
+ar:Arabic
+bn:Bengali
+cs:Czech
+nl:Dutch
+en:English
+fi:Finnish
+fr:French
+de:German
+el:Greek
+gu:Gujarati
+hi:Hindi
+it:Italian
+ja:Japanese
+ko:Korean
+ml:Malayalam
+mr:Marathi
+or:Odia (Oriya)
+ru:Russian
+es:Spanish
+ta:Tamil
